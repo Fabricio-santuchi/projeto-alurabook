@@ -78,12 +78,14 @@
 }
 
 .botões__ancora{
+    display: flex;
     box-sizing: border-box;
     background-color: var(--laranja);
-    padding: 0.81em 1.98em; /*16px 34.4px*/
+    padding: 0.81em 2.17em; /*16px 34.4px*/
     text-decoration: none;
     color: var(--branco);
     font-weight: 700;
+    align-items: center;
 }
 
 
